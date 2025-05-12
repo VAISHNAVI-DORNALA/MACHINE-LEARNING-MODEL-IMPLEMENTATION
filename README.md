@@ -81,3 +81,7 @@ Enterprise communication systems for secure message screening.
 
 Conclusion
 This spam detection task illustrates a complete end-to-end text classification pipeline. By combining text preprocessing, feature engineering, and machine learning, it provides a foundational understanding of how spam filters work. The model can be further improved with more advanced techniques like TF-IDF, stemming/lemmatization, or deep learning-based NLP methods such as LSTM or BERT.
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/041bc76b-512d-4e02-bedc-8f309c98444f)
